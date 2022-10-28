@@ -1,4 +1,4 @@
-#===============================================================
+#==============================================================
 # Your Name & Lab Section: Jack Mahedy, Thursday 1:30pm
 # Your Purdue Email: jmahedy@purdue.edu
 # Program Description: This program displays CIT 155 in big letters\numbers. 
