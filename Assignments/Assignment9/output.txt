@@ -1,0 +1,21 @@
+The Maximum score is:4.0
+Alex Lee, 4.0
+Jason Lane, 4.0
+Jack Black, 4.0
+Wes Chandler, 4.0
+Izzy Morales, 4.0
+Alex Bell, 4.0
+
+The Minimum score is:2.22
+Kanye West, 2.22
+Michael Caine, 2.22
+Jessica Chastain, 2.22
+Matthew McConaughey, 2.22
+Nick Talman, 2.22
+
+Updated Score(s):
+Kanye West, 2.72
+Michael Caine, 2.72
+Jessica Chastain, 2.72
+Matthew McConaughey, 2.72
+Nick Talman, 2.72
